@@ -7,8 +7,6 @@ description: >-
 
 # Docs
 
-## Wysc – Virtual Study Cafe \| Study Discord Server
-
 ## See [https://wysc.bookmark.com](https://wysc.bookmark.com) for homepage
 
 {% embed url="https://gitnisyl.github.io/wysc/" %}
@@ -18,4 +16,6 @@ description: >-
 {% embed url="https://gitnisyl.github.io/wysc/docs" %}
 
 
+
+## Wysc – Virtual Study Cafe \| Study Discord Server
 
