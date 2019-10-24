@@ -1,5 +1,5 @@
 ---
-description: Official Documentation for Wysc
+description: Secondary Documentation for Wysc
 ---
 
 # Docs

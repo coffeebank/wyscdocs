@@ -41,5 +41,7 @@ Italics are phrases you can replace with your own input.
 | ,pounce _text_ | Send DM when someone says _text_ |
 | ,pounce --mentions me | Send DM when you're pinged, with context |
 
+## Full Commands
 
+Type `,help` in \#bots
 
