@@ -9,11 +9,11 @@
 
 ## Music
 
-* [Groovy](music/untitled.md)
+* [Groovy](music/groovy.md)
 
 ## Entertainment
 
-* [Corebot](entertainment/wsc-simulator.md)
+* [Corebot](entertainment/corebot.md)
 
 ## Files
 
