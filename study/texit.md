@@ -1,5 +1,5 @@
 ---
-description: 'LaTex renderer, Wolfram Alpha, calculations'
+description: 'LaTeX renderer, Wolfram Alpha, calculations'
 ---
 
 # TeXit
