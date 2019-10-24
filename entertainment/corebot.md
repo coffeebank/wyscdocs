@@ -18,7 +18,11 @@ Prefix: `.`
 
 Italics are phrases you can replace with your own input.
 
+
+
 #### Start Game
+
+Anyone can get started by typing `.work` to start earning in-game money.
 
 | Command | Description |
 | :--- | :--- |
@@ -26,49 +30,25 @@ Italics are phrases you can replace with your own input.
 | .work | Earns in-game money. The most essential command of the game. Maxes out at 60 minutes. |
 | .deposit | Deposits in-game money into bank. Prevents people from stealing your money. |
 
+
+
 #### Careers and Study
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Command</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">.jobs</td>
-      <td style="text-align:left">Lists jobs you can apply for to earn more in-game money. Some have XP
-        requirements (determined by how many minutes you&apos;ve .worked).
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">.careerpath</td>
-      <td style="text-align:left">Find career paths that let you earn more money. As of this documentation&apos;s
-        writing, the highest paid is the Physician path.
-        <br />
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p>.courses,</p>
-        <p>.education</p>
-      </td>
-      <td style="text-align:left">Moving up the career paths sometimes require you to study and &quot;graduate&quot;
-        a course. Education command lists the education you&apos;ve earned.
-        <br
-        />
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">.study</td>
-      <td style="text-align:left">Lets you study. Maxes out at 60 minutes.
-        <br />
-      </td>
-    </tr>
-  </tbody>
-</table>#### Items
+To progress, the game includes a career ladder the player can climb. You can work your way up to earning over €150/hour.
+
+| Command | Description |
+| :--- | :--- |
+| .jobs | Lists jobs you can apply for to earn more in-game money. Some have XP requirements \(determined by how many minutes you `.work`\). |
+| .careerpath | Find career paths that let you earn more money. As of this documentation's writing, the highest paid is the Physician path. |
+| .courses | Moving up the career paths sometimes require you to study and "graduate" a course. |
+| .education | Lists the education you've earned. |
+| .study | Lets you study. Maxes out at 60 minutes. |
+
+
+
+#### Items
+
+Buying items will help drastically enhance gameplay, providing ease-of-life and monetary improvements.
 
 <table>
   <thead>
@@ -110,12 +90,12 @@ Italics are phrases you can replace with your own input.
         <br />
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
-</table>#### Side Quests
+</table>
+
+#### Side Quests
+
+These side quests may enhance your gameplay, though are not required to succeed.
 
 {% tabs %}
 {% tab title="Bitcoins" %}
