@@ -13,7 +13,7 @@
 
 ## Entertainment
 
-* [WSC Simulator](entertainment/wsc-simulator.md)
+* [Corebot](entertainment/wsc-simulator.md)
 
 ## Files
 
