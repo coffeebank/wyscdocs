@@ -1,8 +1,13 @@
 ---
-description: Secondary Documentation for Wysc
+description: >-
+  For students striving to be better, Wysc is the study Discord server that
+  delivers a cohesive, global online studying experience as the premier
+  edu-social cafe based Discord server.
 ---
 
 # Docs
+
+## Wysc – Virtual Study Cafe \| Study Discord Server
 
 ## See [https://wysc.bookmark.com](https://wysc.bookmark.com) for homepage
 
