@@ -40,13 +40,13 @@ Italics are phrases you can replace with your own input.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">$ <em>latexcontenthere </em>$</td>
+      <td style="text-align:left">$ <em>\frac{1}{2} </em>$</td>
       <td style="text-align:left">LaTeX renderer (<a href="../files/texit/latex-cheatsheet-for-texit.md">see how to use</a>)</td>
     </tr>
     <tr>
-      <td style="text-align:left">,wolf <em>somesearchhere</em>
+      <td style="text-align:left">,wolf <em>4x^2</em>
       </td>
-      <td style="text-align:left">Query WolframAlpha for <em>somesearchhere</em>
+      <td style="text-align:left">Query WolframAlpha for <em>4x^2</em>
       </td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ Italics are phrases you can replace with your own input.
     </tr>
     <tr>
       <td style="text-align:left">,ti</td>
-      <td style="text-align:left">Your timezone</td>
+      <td style="text-align:left">Shows your timezone</td>
     </tr>
     <tr>
       <td style="text-align:left">,ti --set <em>Europe</em>
@@ -67,7 +67,7 @@ Italics are phrases you can replace with your own input.
       <td style="text-align:left">,ti --set <em>New_York</em>
       </td>
       <td style="text-align:left">
-        <p>Set your timezone by city name (<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">see full list</a>)</p>
+        <p>Set your timezone by city name</p>
         <p><em><b>Note: type the city name exactly as shown </b></em><a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones"><em><b>in this list</b></em></a><em>&lt;b&gt;&lt;/b&gt;</em>
         </p>
       </td>
