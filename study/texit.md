@@ -82,14 +82,11 @@ Notifyme sends you a direct message whenever messages matching your criteria are
 | Condition | Description |
 | :--- | :--- |
 | --remove | Displays a menu where you can select a check to remove. |
-| --delay | Smart delay, i.e. won't notify you if you message soon afterwards \(TBD\) |
 | --mentions | Requires the message to mention this user. |
 | --contains | Requires message to contain this string. |
 | --here | Requires message to be from this server. |
 | --from | Requires message to be from the specified user. |
-| --rolementions | Requires message to mention the specified role. |
 | --notbot | Requires the message not have been sent by a bot. |
-| --in | Requires message to be in the specified channel. \(TBD\) |
 {% endtab %}
 {% endtabs %}
 
