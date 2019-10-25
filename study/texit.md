@@ -31,15 +31,71 @@ For special help and a tutorial on how to type equations, symbols, and other coo
 
 Italics are phrases you can replace with your own input.
 
-| Command | Description |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Command</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">$ <em>latexcontenthere </em>$</td>
+      <td style="text-align:left">LaTeX renderer (<a href="../files/texit/latex-cheatsheet-for-texit.md">see how to use</a>)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">,wolf <em>somesearchhere</em>
+      </td>
+      <td style="text-align:left">Query WolframAlpha for <em>somesearchhere</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">,calc <em>1+1</em>
+      </td>
+      <td style="text-align:left">Calculator</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">,ti</td>
+      <td style="text-align:left">Your timezone</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">,ti --set <em>Europe</em>
+      </td>
+      <td style="text-align:left">Set your timezone: searching by continent</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">,ti --set <em>New_York</em>
+      </td>
+      <td style="text-align:left">
+        <p>Set your timezone by city name (<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">see full list</a>)</p>
+        <p><em><b>Note: type the city name exactly as shown </b></em><a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones"><em><b>in this list</b></em></a><em>&lt;b&gt;&lt;/b&gt;</em>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>## Advanced Commands
+
+{% tabs %}
+{% tab title="Notifications" %}
+#### ,notifyme
+
+Notifyme sends you a direct message whenever messages matching your criteria are detected.
+
+`,notifyme text --condition`
+
+| Condition | Description |
 | :--- | :--- |
-| $_2x^2-4_ $ | LaTeX renderer |
-| ,wolf _graph 4x+2_ | Query WolframAlpha for _graph 4x+2_ |
-| ,calc _1+1_ | Calculator |
-| ,ti | Your timezone |
-| ,ti --set _Europe_ | Search for timezones in a continent to set as yours |
-| ,pounce _text_ | Send DM when someone says _text_ |
-| ,pounce --mentions me | Send DM when you're pinged, with msg context |
+| --remove | Displays a menu where you can select a check to remove. |
+| --delay | Smart delay, i.e. won't notify you if you message soon afterwards \(TBD\) |
+| --mentions | Requires the message to mention this user. |
+| --contains | Requires message to contain this string. |
+| --here | Requires message to be from this server. |
+| --from | Requires message to be from the specified user. |
+| --rolementions | Requires message to mention the specified role. |
+| --notbot | Requires the message not have been sent by a bot. |
+| --in | Requires message to be in the specified channel. \(TBD\) |
+{% endtab %}
+{% endtabs %}
 
 ## Full Commands
 
