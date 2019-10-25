@@ -37,9 +37,9 @@ Italics are phrases you can replace with your own input.
 | ,wolf _graph 4x+2_ | Query WolframAlpha for _graph 4x+2_ |
 | ,calc _1+1_ | Calculator |
 | ,ti | Your timezone |
-| ,ti --set _America/New\_York_ | Set your timezone \([see list of timezones](https://timezonedb.com/time-zones)\) |
+| ,ti --set _Europe_ | Search for timezones in a continent to set as yours |
 | ,pounce _text_ | Send DM when someone says _text_ |
-| ,pounce --mentions me | Send DM when you're pinged, with context |
+| ,pounce --mentions me | Send DM when you're pinged, with msg context |
 
 ## Full Commands
 
