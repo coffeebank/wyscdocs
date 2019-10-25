@@ -55,6 +55,10 @@ Italics are phrases you can replace with your own input.
       <td style="text-align:left">Calculator</td>
     </tr>
     <tr>
+      <td style="text-align:left">,rotate</td>
+      <td style="text-align:left">Rotates most recent image in the channel</td>
+    </tr>
+    <tr>
       <td style="text-align:left">,ti</td>
       <td style="text-align:left">Shows your timezone</td>
     </tr>
