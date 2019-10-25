@@ -61,13 +61,13 @@ Italics are phrases you can replace with your own input.
     <tr>
       <td style="text-align:left">,ti --set <em>Europe</em>
       </td>
-      <td style="text-align:left">Set your timezone: searching by continent</td>
+      <td style="text-align:left">Search <em>continent</em> for timezone to set</td>
     </tr>
     <tr>
       <td style="text-align:left">,ti --set <em>New_York</em>
       </td>
       <td style="text-align:left">
-        <p>Set your timezone by city name</p>
+        <p>Manually set timezone by city</p>
         <p><em><b>Note: type the city name exactly as shown </b></em><a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones"><em><b>in this list</b></em></a><em>&lt;b&gt;&lt;/b&gt;</em>
         </p>
       </td>
