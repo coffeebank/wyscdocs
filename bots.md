@@ -24,7 +24,7 @@ description: A list of Wysc's primary bots and their most used bot commands.
 | :--- | :--- | :--- |
 | \*\*\*\*[**Wysc Music**](music/groovy.md) | \*\*\*\*[**Groovy**](music/groovy.md)\*\*\*\* | , |
 | **Wysc Radio** | **Watora** | **wysc** |
-|  | Rythm | == |
+|  | [Rythm](music/rythm.md) | == |
 
 ## Entertainment Bots
 
@@ -38,7 +38,7 @@ description: A list of Wysc's primary bots and their most used bot commands.
 
 ## Full Bot List
 
-To see all bots Wysc use, please refer to our [Credits page](https://gitnisyl.github.io/wysc/docs/about/credits).
+To see all bots Wysc use, please refer to our [Credits page](https://gitnisyl.github.io/wysc/docs/about/credits#discord-server).
 
 
 

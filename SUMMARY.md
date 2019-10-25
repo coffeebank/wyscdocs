@@ -10,6 +10,8 @@
 ## Music
 
 * [Groovy](music/groovy.md)
+* [Watora](music/watora.md)
+* [Rythm](music/rythm.md)
 
 ## Entertainment
 
