@@ -23,7 +23,7 @@ description: A list of Wysc's primary bots and their most used bot commands.
 | Wysc Feature | Bot Name | Prefix |
 | :--- | :--- | :--- |
 | \*\*\*\*[**Wysc Music**](music/groovy.md) | \*\*\*\*[**Groovy**](music/groovy.md)\*\*\*\* | , |
-| **Wysc Radio** | **Watora** | **wysc** |
+| \*\*\*\*[**Wysc Radio**](music/watora.md) | \*\*\*\*[**Watora**](music/watora.md)\*\*\*\* | **wysc** |
 |  | [Rythm](music/rythm.md) | == |
 
 ## Entertainment Bots
