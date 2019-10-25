@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Docs](README.md)
-* [Bots](untitled.md)
+* [Bots](bots.md)
 
 ## Study
 

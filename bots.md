@@ -9,7 +9,7 @@ description: A list of Wysc's primary bots and their most used bot commands.
 | Wysc Feature | Bot Name | Prefix |
 | :--- | :--- | :--- |
 | **Wysc Barista** | **Tatsumaki** | **,** |
-| **Wysc Librarian** | **TeXit** | **,** |
+| \*\*\*\*[**Wysc Librarian**](study/texit.md) | \*\*\*\*[**TeXit**](study/texit.md)\*\*\*\* | **,** |
 
 ## Study Bots
 
@@ -22,7 +22,7 @@ description: A list of Wysc's primary bots and their most used bot commands.
 
 | Wysc Feature | Bot Name | Prefix |
 | :--- | :--- | :--- |
-| **Wysc Music** | **Groovy** | , |
+| \*\*\*\*[**Wysc Music**](music/groovy.md) | \*\*\*\*[**Groovy**](music/groovy.md)\*\*\*\* | , |
 | **Wysc Radio** | **Watora** | **wysc** |
 |  | Rythm | == |
 
@@ -32,7 +32,7 @@ description: A list of Wysc's primary bots and their most used bot commands.
 | :--- | :--- | :--- |
 | **Wysc Emotes** | **Emote** | **ec/** |
 | **Wysc Speech** | **KDBot** | **-tts** |
-| **Wysc Simulator** | **Corebot** | **.** |
+| \*\*\*\*[**Wysc Simulator**](entertainment/corebot.md) | \*\*\*\*[**Corebot**](entertainment/corebot.md)\*\*\*\* | **.** |
 |  | Ayana | a. |
 |  | Pokecord | p! |
 
