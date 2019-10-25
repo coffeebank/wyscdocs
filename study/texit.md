@@ -69,7 +69,7 @@ Italics are phrases you can replace with your own input.
       </td>
     </tr>
   </tbody>
-</table>## Advanced Commands
+</table>
 
 {% tabs %}
 {% tab title="Notifications" %}
