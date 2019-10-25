@@ -59,16 +59,12 @@ Italics are phrases you can replace with your own input.
       <td style="text-align:left">Shows your timezone</td>
     </tr>
     <tr>
-      <td style="text-align:left">,ti --set <em>Europe</em>
-      </td>
-      <td style="text-align:left">Search <em>continent</em> for timezone to set</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">,ti --set <em>New_York</em>
+      <td style="text-align:left">,ti --set <em>7</em>
       </td>
       <td style="text-align:left">
-        <p>Manually set timezone by city</p>
-        <p><em><b>Note: type the city name exactly as shown </b></em><a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones"><em><b>in this list</b></em></a><em>&lt;b&gt;&lt;/b&gt;</em>
+        <p>Set your timezone by <em>current hour</em>
+        </p>
+        <p><em><b>Note: If the time is 7:35pm, only put 7</b></em>
         </p>
       </td>
     </tr>
