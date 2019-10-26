@@ -1,20 +1,18 @@
 # Table of contents
 
 * [Docs](README.md)
-* [Bots](bots.md)
+* [Quick Start Guide](quick-start-guide.md)
+* [Bot List](bot-list.md)
 
-## Study
+## Wysc
 
-* [TeXit](study/texit.md)
+* [Librarian \(TeXit\)](wysc/texit.md)
+* [Music \(Groovy\)](wysc/groovy.md)
+* [Radio \(Watora\)](wysc/watora.md)
 
-## Music
+## Other Bots <a id="bots"></a>
 
-* [Groovy](music/groovy.md)
-* [Watora](music/watora.md)
-
-## Entertainment
-
-* [Corebot](entertainment/corebot.md)
+* [Corebot](bots/corebot.md)
 
 ## Files
 

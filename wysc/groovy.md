@@ -2,7 +2,7 @@
 description: 'Wysc Music, Music'
 ---
 
-# Groovy
+# Music \(Groovy\)
 
 ## Bot Info
 

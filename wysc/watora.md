@@ -2,7 +2,7 @@
 description: Wysc Radio
 ---
 
-# Watora
+# Radio \(Watora\)
 
 ## Bot Info
 

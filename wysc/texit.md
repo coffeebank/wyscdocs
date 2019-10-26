@@ -2,7 +2,7 @@
 description: 'LaTeX renderer, Wolfram Alpha, calculations'
 ---
 
-# TeXit
+# Librarian \(TeXit\)
 
 ## Bot Info
 
