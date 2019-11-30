@@ -1,8 +1,8 @@
 ---
-description: WSC Simulator
+description: 'Cafe Simulator, WSC Simulator'
 ---
 
-# Corebot
+# Simulator \(Corebot\)
 
 ## Bot Info
 

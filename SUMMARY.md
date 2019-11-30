@@ -1,23 +1,23 @@
 # Table of contents
 
-* [Docs](README.md)
-* [Quick Start Guide](quick-start-guide.md)
+* [Wysc](README.md)
 * [Bot List](bot-list.md)
+* [Quick Start Guide](start.md)
 
-## Wysc
+## Cafe Bot <a id="cafe"></a>
 
-* [Librarian \(TeXit\)](wysc/texit.md)
-* [Music \(Groovy\)](wysc/groovy.md)
-* [Radio \(Watora\)](wysc/watora.md)
+* [TA \(Tatsumaki\)](cafe/tatsumaki.md)
+* [TE \(TeXit\)](cafe/texit/README.md)
+  * [LaTeX Cheatsheet for TeXit](cafe/texit/latex-cheatsheet-for-texit.md)
+  * [The Great Big List of LaTeX Symbols](cafe/texit/the-great-big-list-of-latex-symbols.md)
+* [GM \(Groovy\)](cafe/groovy.md)
 
-## Other Bots <a id="bots"></a>
+## Cafe Experience <a id="bots"></a>
 
-* [Corebot](bots/corebot.md)
+* [Emotes \(Emote Collector\)](bots/emotes.md)
+* [Simulator \(Corebot\)](bots/corebot.md)
 
-## Files
+## Entertainment
 
-* [Rythm](files/rythm.md)
-* [TeXit](files/texit/README.md)
-  * [LaTeX Cheatsheet for TeXit](files/texit/latex-cheatsheet-for-texit.md)
-  * [The Great Big List of LaTeX Symbols](files/texit/the-great-big-list-of-latex-symbols.md)
+* [Rythm](entertainment/rythm.md)
 
