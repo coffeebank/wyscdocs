@@ -93,6 +93,8 @@ Buying items will help drastically enhance gameplay, providing ease-of-life and 
   </tbody>
 </table>
 
+
+
 #### Side Quests
 
 These side quests may enhance your gameplay, though are not required to succeed.

@@ -12,11 +12,11 @@ description: A list of Wysc's primary bots and their most used bot commands.
 See our [Quick Start Guide](start.md) for a summary of commands!
 {% endhint %}
 
-{% page-ref page="cafe/tatsumaki.md" %}
+{% page-ref page="tatsumaki.md" %}
 
-{% page-ref page="cafe/texit/" %}
+{% page-ref page="texit/" %}
 
-{% page-ref page="cafe/groovy.md" %}
+{% page-ref page="groovy.md" %}
 
 
 
@@ -26,9 +26,9 @@ See our [Quick Start Guide](start.md) for a summary of commands!
 Other bots that provide an enhanced user experience have the name `☕ Cafe` in front of their feature.
 {% endhint %}
 
-{% page-ref page="bots/emotes.md" %}
+{% page-ref page="emotes.md" %}
 
-{% page-ref page="bots/corebot.md" %}
+{% page-ref page="corebot.md" %}
 
 
 
@@ -38,7 +38,7 @@ Other bots that provide an enhanced user experience have the name `☕ Cafe` in 
 These bots are usable only in `#voice`, `#whiteboard`, and `#bots-spam` .
 {% endhint %}
 
-{% page-ref page="entertainment/rythm.md" %}
+{% page-ref page="rythm.md" %}
 
 
 

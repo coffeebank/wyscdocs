@@ -97,6 +97,8 @@ Italics are phrases you can replace with your own input.
   </tbody>
 </table>
 
+
+
 ## Full Commands
 
 Type `,help` in \#bots
