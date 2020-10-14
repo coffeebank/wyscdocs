@@ -4,6 +4,13 @@ description: Global emotes for all users
 
 # Emotes \(Emote Collector\)
 
+{% hint style="danger" %}
+**Note: Wysc Gitbook has been deprecated.**
+
+Please use this website instead:  
+[https://wysc.us.to/docs/bots/emotes](https://wysc.us.to/docs/bots/emotes)
+{% endhint %}
+
 ## Bot Info
 
 {% embed url="https://github.com/EmoteCollector/EmoteCollector" %}

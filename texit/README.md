@@ -4,6 +4,16 @@ description: 'LaTeX renderer, Wolfram Alpha, calculations'
 
 # TE \(TeXit\)
 
+{% hint style="danger" %}
+**Note: Wysc Gitbook has been deprecated.**
+
+Please use this website instead:  
+[https://wysc.us.to/docs/bots/paradox](https://wysc.us.to/docs/bots/paradox)  
+  
+LaTeX Cheatsheet for TeXit is available to view in the browser at:  
+[https://wysc.us.to/docs/assets/texit\_cheatsheet\_1.pdf](https://wysc.us.to/docs/assets/texit_cheatsheet_1.pdf)
+{% endhint %}
+
 ## Bot Info
 
 {% embed url="https://top.gg/bot/510789298321096704" %}
