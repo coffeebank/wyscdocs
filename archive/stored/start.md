@@ -30,7 +30,7 @@ All commands below use the prefix `,`
     <tr>
       <td style="text-align:left">$ <em>\frac{1}{2} </em>$</td>
       <td style="text-align:left">TE</td>
-      <td style="text-align:left">LaTeX renderer (<a href="../../texit/latex-cheatsheet-for-texit.md">see how to use</a>)</td>
+      <td style="text-align:left">LaTeX renderer (<a href="../cafe/texit/latex-cheatsheet-for-texit.md">see how to use</a>)</td>
     </tr>
     <tr>
       <td style="text-align:left">,ask <em>4x^2</em>
@@ -88,7 +88,7 @@ All commands below use the prefix `,`
 
 {% page-ref page="tatsumaki.md" %}
 
-{% page-ref page="../../texit/" %}
+{% page-ref page="../cafe/texit/" %}
 
 {% page-ref page="groovy.md" %}
 
