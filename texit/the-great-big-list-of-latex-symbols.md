@@ -5,7 +5,7 @@ description: 'Source: Rensselaer Polytechnic Institute'
 # The Great Big List of LaTeX Symbols
 
 {% hint style="danger" %}
-**Note: Wysc Gitbook is now deprecated.**
+**Note: Wysc Gitbook has been deprecated.**
 
 Please use this website to view the pdf in the browser:  
 [https://www.rpi.edu/dept/arc/training/latex/LaTeX\_symbols.pdf](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)  
