@@ -14,7 +14,7 @@ See our [Quick Start Guide](start.md) for a summary of commands!
 
 {% page-ref page="tatsumaki.md" %}
 
-{% page-ref page="../texit/" %}
+{% page-ref page="../../texit/" %}
 
 {% page-ref page="groovy.md" %}
 
@@ -26,7 +26,7 @@ See our [Quick Start Guide](start.md) for a summary of commands!
 Other bots that provide an enhanced user experience have the name `☕ Cafe` in front of their feature.
 {% endhint %}
 
-{% page-ref page="../emotes.md" %}
+{% page-ref page="../../emotes.md" %}
 
 {% page-ref page="corebot.md" %}
 
