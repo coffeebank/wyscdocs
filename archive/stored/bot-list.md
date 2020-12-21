@@ -26,7 +26,7 @@ See our [Quick Start Guide](start.md) for a summary of commands!
 Other bots that provide an enhanced user experience have the name `☕ Cafe` in front of their feature.
 {% endhint %}
 
-{% page-ref page="../../cafe/emotes.md" %}
+{% page-ref page="emotes-old.md" %}
 
 {% page-ref page="corebot.md" %}
 

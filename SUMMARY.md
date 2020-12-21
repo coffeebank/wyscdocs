@@ -12,6 +12,7 @@
 ## Archive
 
 * [Archive](archive/stored/README.md)
+  * [Emotes \(Emote Collector\) old](archive/stored/emotes-old.md)
   * [Bot List](archive/stored/bot-list.md)
   * [Quick Start Guide](archive/stored/start.md)
   * [TA \(Tatsumaki\)](archive/stored/tatsumaki.md)
