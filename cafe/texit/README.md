@@ -7,11 +7,9 @@ description: 'LaTeX renderer, Wolfram Alpha, calculations'
 {% hint style="danger" %}
 **Note: Wysc Gitbook has been deprecated.**
 
-Please use this website instead:  
-[https://wysc.us.to/docs/bots/paradox](https://wysc.us.to/docs/bots/paradox)  
-  
-LaTeX Cheatsheet for TeXit is available to view in the browser at:  
-[https://wysc.us.to/docs/assets/texit\_cheatsheet\_1.pdf](https://wysc.us.to/docs/assets/texit_cheatsheet_1.pdf)
+The links on this page may no longer work.
+
+New site: [https://wysc.us.to/docs/bots/texit](https://wysc.us.to/docs/bots/texit)
 {% endhint %}
 
 ## Bot Info
