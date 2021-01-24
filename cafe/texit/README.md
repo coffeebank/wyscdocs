@@ -31,13 +31,13 @@ Prefix: `,`
 
 For special help and a tutorial on how to type equations, symbols, and other cool stuff in LaTeX, check out these fantastic resources:
 
-{% page-ref page="latex-cheatsheet-for-texit.md" %}
-
-{% page-ref page="the-great-big-list-of-latex-symbols.md" %}
+{% embed url="https://wysc.us.to/docs/bots/texit/latex" caption="LaTeX Cheatsheet for TeXit  ▸" %}
 
 ## Commands
 
-Italics are phrases you can replace with your own input.
+This page is no longer updated. New site:
+
+{% embed url="https://wysc.us.to/docs/bots/texit" caption="Commands  ▸" %}
 
 <table>
   <thead>
